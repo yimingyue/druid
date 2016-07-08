@@ -67,6 +67,7 @@
         <log4j.version>2.5</log4j.version>
         <slf4j.version>1.7.12</slf4j.version>
         <hadoop.compile.version>2.3.0</hadoop.compile.version>
+	<hcat.compile.version>0.13.2.0.1507250150</hcat.compile.version>
     </properties>
 
     <modules>

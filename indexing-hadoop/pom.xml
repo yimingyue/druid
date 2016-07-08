@@ -128,6 +128,11 @@
             <version>${hadoop.compile.version}</version>
             <scope>test</scope>
         </dependency>
+	<dependency>
+	    <groupId>org.apache.hive.hcatalog</groupId>
+	    <artifactId>hive-hcatalog-core</artifactId>
+	    <version>${hcat.compile.version}</version>
+	</dependency>
         <dependency>
             <groupId>io.druid</groupId>
             <artifactId>druid-server</artifactId>
